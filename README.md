@@ -6,4 +6,6 @@ This is the final session launched on **September 2, 2019.**
 
 mlcourse.ai fall-2019 session roadmap, activities, what's new
 
-[Live Session 0](file:///F:/mlcourse.ai/mlcourseaifall2019introlivesession-190907072227.pdf)
+[Course Roadmap](file:///F:/mlcourse.ai/mlcourseaifall2019introlivesession-190907072227.pdf)
+
+[Live Session 0](https://youtu.be/DrohHdQa8u8)
